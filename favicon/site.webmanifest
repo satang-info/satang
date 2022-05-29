@@ -1,0 +1,20 @@
+{
+    "name": "Satang.info",
+    "short_name": "Satang.info",
+    "icons": [
+        {
+            "src": "https://data.satang.info/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://data.satang.info/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#eeeeee",
+    "background_color": "#eeeeee",
+    "start_url": "https://www.satang.info/",
+    "display": "standalone"
+}
